@@ -9,7 +9,7 @@
 
 ### 🚀 Sobre mim
 
-Desenvolvedor full-stack júnior, mantendo **2 apps mobile em produção** (React Native) e sistemas web (React/Next.js), enquanto lidero o **hardening de infraestrutura** da empresa onde trabalho (VPS Linux, CI/CD).
+Desenvolvedor full-stack júnior, mantendo **2 apps mobile em produção** (React Native) e sistemas web (React/Next.js), enquanto sou responsável  pelo **hardening de infraestrutura** da empresa onde trabalho (VPS Linux, CI/CD).
 
 - 🔭 Atualmente escalando o **FisioTech**, um sistema de gestão para clínicas de fisioterapia
 - 🌱 Construindo o **ConectAgro**, conectando produtores rurais em Mato Grosso a redes de infraestrutura e logística
