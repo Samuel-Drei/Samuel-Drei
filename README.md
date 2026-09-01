@@ -10,7 +10,7 @@
 
 Full-stack developer. I maintain two React Native apps in production, work on scaling a clinic management system built in React, and lead infrastructure hardening on our own Linux VPS.
 
-**[LinkedIn](https://linkedin.com/in/samuel-andrei)** · **[Email](mailto:samuelandreit.teixeira@gmail.com)** · Mato Grosso, Brazil
+**[LinkedIn](https://linkedin.com/in/samuel-andrei)** · **[Email](mailto:samuelandreit.teixeira@gmail.com)**
 
 <br>
 
