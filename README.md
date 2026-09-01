@@ -1,40 +1,52 @@
-# Samuel Andrei Tramontin Teixeira
+<h1>Samuel Andrei Tramontin Teixeira</h1>
+
+<p>
+  <img src="https://img.shields.io/badge/React-087EA4?style=flat-square&labelColor=1a1a1a" height="22"/>
+  <img src="https://img.shields.io/badge/React_Native-087EA4?style=flat-square&labelColor=1a1a1a" height="22"/>
+  <img src="https://img.shields.io/badge/Next.js-white?style=flat-square&labelColor=1a1a1a" height="22"/>
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&labelColor=1a1a1a" height="22"/>
+  <img src="https://img.shields.io/badge/RAG_%2F_LangChain-6E56CF?style=flat-square&labelColor=1a1a1a" height="22"/>
+</p>
 
 Full-stack developer. I maintain two React Native apps in production, work on scaling a clinic management system built in React, and lead infrastructure hardening on our own Linux VPS.
 
-[LinkedIn](https://linkedin.com/in/samuel-andrei) · [samuelandreit.teixeira@gmail.com](mailto:samuelandreit.teixeira@gmail.com)
+**[LinkedIn](https://linkedin.com/in/samuel-andrei)** · **[Email](mailto:samuelandreit.teixeira@gmail.com)** · Mato Grosso, Brazil
 
----
+<br>
 
 ## Projects
 
-### RAG Pipeline v2.0
+### 🔹 RAG Pipeline v2.0
 A retrieval-augmented generation system for semantic document search, built with a custom vector search and reranking layer.
 
-I rebuilt the retrieval step to cut latency from 15.8s to 5.2s and reduce token cost by 67%, while keeping accuracy at 88%. The biggest lever was reranking candidates before sending them to the LLM instead of relying on raw vector similarity — most of the cost was being spent on context the model never needed.
+> Rebuilt the retrieval step to cut latency from **15.8s → 5.2s** and reduce token cost by **67%**, while keeping accuracy at **88%**. The biggest lever was reranking candidates before sending them to the LLM instead of relying on raw vector similarity — most of the cost was being spent on context the model never needed.
 
 `Python` `LangChain` `Vector DB`
 
-### FisioTech — infrastructure & reliability
-I maintain and scale the production infrastructure behind a clinic management system: CI/CD pipeline (GitHub Actions), server hardening (firewall, fail2ban, SSH key auth — cut exposed ports from 16 to 3), and incident response.
+### 🔹 FisioTech — infrastructure & reliability
+I maintain and scale the production infrastructure behind a clinic management system: CI/CD pipeline, server hardening, and incident response.
 
-One incident worth mentioning: a WhatsApp integration was failing with HTTP 405 errors and unbounded reconnection attempts, which had locked clinics out of the system for close to three weeks by the time I traced it. Root cause was a missing backoff strategy on reconnects. Fixed with exponential backoff.
+> Cut exposed network ports from **16 → 3** through firewall rules, fail2ban, and SSH key auth. Also traced a WhatsApp integration failure (HTTP 405, unbounded reconnects) that had locked clinics out of the system for close to three weeks — fixed with exponential backoff.
 
 `React` `GitHub Actions` `Linux` `CI/CD`
 
-### ConectAgro
-A full-stack app connecting rural producers in Mato Grosso to infrastructure and logistics networks — built to work reliably on low-end devices and inconsistent connections, which shaped most of the architecture decisions.
+### 🔹 ConectAgro
+A full-stack app connecting rural producers in Mato Grosso to infrastructure and logistics networks.
+
+> Built to work reliably on low-end devices and inconsistent connections, which shaped most of the architecture decisions.
 
 `TypeScript` `React` `Capacitor.js`
 
----
+<br>
 
 ## Stack
 
-**Languages & frameworks:** TypeScript, JavaScript, Python, React, React Native, Next.js, Node.js
-**AI/data:** RAG, LangChain, embeddings, vector databases
-**Infra:** PostgreSQL, Supabase, Docker, GitHub Actions, Linux (VPS)
+| | |
+|---|---|
+| **Languages & frameworks** | TypeScript · JavaScript · Python · React · React Native · Next.js · Node.js |
+| **AI / data** | RAG · LangChain · embeddings · vector databases |
+| **Infrastructure** | PostgreSQL · Supabase · Docker · GitHub Actions · Linux (VPS) |
 
----
+<br>
 
-*Currently based in Mato Grosso, Brazil, studying Software Engineering at UTFPR.*
+<sub>Studying Software Engineering at UTFPR.</sub>
