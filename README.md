@@ -1,4 +1,4 @@
-<h3 align="center">Full-Stack Software Engineer | React • React Native • Next.js | RAG & AI Systems</h3>
+<h3 align="center">Full-Stack Software Engineer | React • Javascript • Next.js | RAG & AI Systems</h3>
 
 <p align="center">
   <a href="https://linkedin.com/in/samuel-andrei"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
@@ -26,7 +26,6 @@ Desenvolvedor full-stack júnior, mantendo **2 apps mobile em produção** (Reac
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white"/>
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
   <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black"/>
-  <img src="https://img.shields.io/badge/React_Native-61DAFB?style=flat-square&logo=react&logoColor=black"/>
   <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white"/>
   <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white"/>
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
