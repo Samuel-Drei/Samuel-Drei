@@ -78,6 +78,5 @@ Catálogo/e-commerce para distribuidor oficial Hikvision/JFL/PPA, com dados estr
 ---
 
 <p align="center">
-https://github-stats-extended.vercel.app/api?username=Samuel-Drei&show_icons=true&theme=default&hide_border=true </p>
-
-<p align="center">
+  <img src="https://github-stats-extended.vercel.app/api?username=Samuel-Drei&show_icons=true&theme=default&hide_border=true" alt="Samuel's GitHub Stats" />
+</p>
