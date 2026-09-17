@@ -78,7 +78,6 @@ Catálogo/e-commerce para distribuidor oficial Hikvision/JFL/PPA, com dados estr
 ---
 
 <p align="center">
-[[[![Anurag's GitHub stats](https://github-stats-extended.vercel.app/api?username=Samuel-Drei)](https://github.com/stats-organization/github-stats-extended)](https://github-stats-extended.vercel.app/api?username=Samuel-Drei&show_icons=true&theme=default&hide_border=true)
-](https://github-stats-extended.vercel.app/api?username=Samuel-Drei&show_icons=true&theme=default&hide_border=true)</p>
+https://github-stats-extended.vercel.app/api?username=Samuel-Drei&show_icons=true&theme=default&hide_border=true </p>
 
 <p align="center">
