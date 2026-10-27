@@ -7,19 +7,19 @@
 
 ---
 
-### 🚀 Sobre mim
+###  Sobre mim
 
 Desenvolvedor full-stack júnior, mantendo **2 apps mobile em produção** (React Native) e sistemas web (React/Next.js), enquanto sou responsável  pelo **hardening de infraestrutura** da empresa onde trabalho (VPS Linux, CI/CD).
 
-- 🔭 Atualmente escalando o **FisioTech**, um sistema de gestão para clínicas de fisioterapia
-- 🌱 Construindo o **ConectAgro**, conectando produtores rurais em Mato Grosso a redes de infraestrutura e logística
-- 🤖 Explorando engenharia de IA com pipelines **RAG** (Retrieval-Augmented Generation)
-- 🎓 Graduando em Engenharia de Software pela **UTFPR**
-- 💬 Pergunte-me sobre React Native, arquitetura de APIs, ou RAG pipelines
+-  Atualmente escalando o **KlinTech**, um sistema de gestão para clínicas de fisioterapia
+-  Construindo o **ConectAgro**, conectando produtores rurais em Mato Grosso a redes de infraestrutura e logística
+-  Explorando engenharia de IA com pipelines **RAG** (Retrieval-Augmented Generation)
+-  Graduando em Engenharia de Software pela **UTFPR**
+-  Pergunte-me sobre React Native, arquitetura de APIs, ou RAG pipelines
 
 ---
 
-### 🛠️ Stack
+###  Stack
 
 **Desenvolvimento**
 <p>
@@ -49,28 +49,26 @@ Desenvolvedor full-stack júnior, mantendo **2 apps mobile em produção** (Reac
 
 ---
 
-### 📌 Projetos em destaque
+###  Projetos em destaque
 
-#### 🧠 [RAG Pipeline v2.0](#)
+####  [RAG Pipeline v2.0](#)
 Sistema RAG em produção para consulta inteligente de documentos, com busca vetorial e reranking otimizado.
-- ⚡ **67% mais rápido** (15,8s → 5,2s)
-- 💰 **67% de redução** no custo em tokens
-- 🎯 **88% de acurácia** mantida
+-  **67% mais rápido** (15,8s → 5,2s)
+-  **67% de redução** no custo em tokens
+-  **88% de acurácia** mantida
 - `Python` `LangChain` `Vector DB`
 
-#### 🌾 [ConectAgro](#)
+#### [ConectAgro](#)
 App full-stack de agronegócio conectando produtores rurais a redes de infraestrutura e logística em Mato Grosso.
 - `TypeScript` `React` `Capacitor.js`
 
-#### 🛒 [Quantex Web](#)
-Catálogo/e-commerce para distribuidor oficial Hikvision/JFL/PPA, com dados estruturados (Schema.org) e SEO local.
-- `Next.js` `TypeScript` `SEO`
+
 
 ---
 
-### 📈 Alguns números
+###  Alguns números
 
-- 📱 **2 apps mobile** em produção, **50+ assinaturas/mês**
-- 🔒 Reduzi portas de rede expostas na infra de produção de **16 para 3**
-- 🐛 Diagnostiquei e corrigi uma falha crítica que bloqueava operações por **~22 dias**
-- 🌐 Levei **10+ sites** ao Top 3 do Google via SEO técnico
+-  **2 apps mobile** em produção, **50+ assinaturas/mês**
+-  Reduzi portas de rede expostas na infra de produção de **16 para 3**
+-  Diagnostiquei e corrigi uma falha crítica que bloqueava operações por **~22 dias**
+-  Levei **10+ sites** ao Top 3 do Google via SEO técnico
