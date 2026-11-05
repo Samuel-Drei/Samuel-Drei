@@ -29,7 +29,7 @@ Do domínio ao e-mail: scraping de HTML e consulta RDAP em paralelo, deduplicaç
 - **10 mil+ e-mails** processados; ~40% dos domínios com e-mail válido
 - `n8n` `Python` `Google Apps Script`
 
-### Painel de BI para revenda de veículos *(em desenvolvimento)*
+### [Painel de BI para revenda de veículos](https://github.com/Samuel-Drei/tr-bi)
 Painel gerencial alimentado pelos relatórios do ERP, com importadores em Python.
 - `Django` `PostgreSQL` `pandas` `Docker`
 
