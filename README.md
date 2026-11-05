@@ -1,74 +1,63 @@
-<h3 align="center">Full-Stack Software Engineer | React • Javascript • Next.js | RAG & AI Systems</h3>
+# Samuel Andrei · AI Builder
 
-<p align="center">
-  <a href="https://linkedin.com/in/samuel-andrei"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="mailto:samuelandreit.teixeira@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-</p>
+**Construo soluções com IA que viram processo real:** assistentes RAG, automações em n8n e painéis de BI, do zero ao deploy e com resultado medido.
 
----
+Estudante de Engenharia de Software (UTFPR) · Primavera do Leste, MT · Remoto
 
-###  Sobre mim
-
-Desenvolvedor full-stack júnior, mantendo **2 apps mobile em produção** (React Native) e sistemas web (React/Next.js), enquanto sou responsável  pelo **hardening de infraestrutura** da empresa onde trabalho (VPS Linux, CI/CD).
-
--  Atualmente escalando o **KlinTech**, um sistema de gestão para clínicas de fisioterapia
--  Construindo o **ConectAgro**, conectando produtores rurais em Mato Grosso a redes de infraestrutura e logística
--  Explorando engenharia de IA com pipelines **RAG** (Retrieval-Augmented Generation)
--  Graduando em Engenharia de Software pela **UTFPR**
--  Pergunte-me sobre React Native, arquitetura de APIs, ou RAG pipelines
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/samuel-andrei)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:samuelandreit.teixeira@gmail.com)
 
 ---
 
-###  Stack
+## Projetos em destaque
 
-**Desenvolvimento**
-<p>
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
-  <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
-</p>
+### 🤖 [Assistente RAG para ERP — GT Sistemas](https://github.com/Samuel-Drei/rag-gtsistemas) · [demo ao vivo](https://gtsistemas.streamlit.app/)
+Responde dúvidas do ERP com busca vetorial, reranking por LLM e resposta ancorada na documentação.
+- Em uso diário por **4+ profissionais** (principalmente vendas) desde jun/2026
+- Tempo de resposta de **30–45 min para 1–2 min**; ~560 perguntas respondidas
+- Otimizado com benchmark fixo: latência **15,8 s → 5,2 s (-67%)**, tokens -67%, acurácia de 88%
+- `Python` `LanceDB` `OpenAI` `Streamlit`
 
-**IA & Dados**
-<p>
-  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white"/>
-  <img src="https://img.shields.io/badge/RAG-6E56CF?style=flat-square"/>
-  <img src="https://img.shields.io/badge/Vector_DB-FF6F61?style=flat-square"/>
-</p>
+### 📊 [Relatórios de Meta Ads no WhatsApp — n8n](https://github.com/Samuel-Drei/ads_campaign-report-automation)
+Relatórios diário, semanal e mensal com a métrica certa para cada objetivo de campanha, mais alerta de saldo baixo.
+- Em produção para uma rede de revenda de veículos (3 lojas, ~R$ 15 mil/mês em mídia)
+- **~8 h/semana** de trabalho manual eliminadas e **R$ 300/mês** a menos em plataforma de terceiros
+- `n8n` `Meta Marketing API` `Evolution API` `JavaScript`
 
-**Infraestrutura & Segurança**
-<p>
-  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Supabase-3FCF8E?style=flat-square&logo=supabase&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white"/>
-  <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Linux_VPS-FCC624?style=flat-square&logo=linux&logoColor=black"/>
-</p>
+### 📧 [Pipeline de prospecção B2B](https://github.com/Samuel-Drei/email-scraper-automation) · [vídeo demo](https://youtu.be/PCBBV0heSv8)
+Do domínio ao e-mail: scraping de HTML e consulta RDAP em paralelo, deduplicação e envio em lotes.
+- **10 mil+ e-mails** processados em 3 contas; ~40% dos domínios com e-mail válido
+- `n8n` `Python` `Google Apps Script`
+
+### 🏪 Painel de BI para revenda de veículos *(em desenvolvimento)*
+Painel gerencial alimentado pelos relatórios do ERP, com importadores em Python.
+- `Django` `PostgreSQL` `pandas` `Docker`
 
 ---
 
-###  Projetos em destaque
+## Na prática
 
-####  [RAG Pipeline v2.0](#)
-Sistema RAG em produção para consulta inteligente de documentos, com busca vetorial e reranking otimizado.
--  **67% mais rápido** (15,8s → 5,2s)
--  **67% de redução** no custo em tokens
--  **88% de acurácia** mantida
-- `Python` `LangChain` `Vector DB`
-
-#### [ConectAgro](#)
-App full-stack de agronegócio conectando produtores rurais a redes de infraestrutura e logística em Mato Grosso.
-- `TypeScript` `React` `Capacitor.js`
-
-
+- 📱 **2 apps mobile em produção** (React Native, ~2 mil usuários/mês) com API REST e pagamentos via Asaas
+- 🔒 Reduzi as portas expostas da VPS de produção de **16 para 3** (firewall, fail2ban, SSH por chave)
+- 🛠️ Achei a causa de um bloqueio de API do WhatsApp de **22 dias** (loop de reconexão) e corrigi com backoff exponencial
+- 🌐 15+ sites em Next.js com SEO técnico
 
 ---
 
-###  Alguns números
+## Stack
 
--  **2 apps mobile** em produção, **50+ assinaturas/mês**
--  Reduzi portas de rede expostas na infra de produção de **16 para 3**
--  Diagnostiquei e corrigi uma falha crítica que bloqueava operações por **~22 dias**
--  Levei **10+ sites** ao Top 3 do Google via SEO técnico
+**IA e automação:** n8n · RAG · embeddings · busca vetorial · reranking com LLM · prompt engineering · OpenAI API · Claude Code
+
+**Dados e BI:** Python · pandas · SQL/PostgreSQL · Django
+
+**Desenvolvimento:** TypeScript · JavaScript · React · Next.js · React Native · Node.js
+
+**Infra:** VPS Linux · Docker · Cloudflare · Supabase
+
+---
+
+## Estou procurando
+
+Estágio na trilha **AI Builder**: usar IA para construir ferramentas, automações e agentes que resolvem problemas de negócio. Disponível 30 h/semana.
+
+Fale comigo no [LinkedIn](https://linkedin.com/in/samuel-andrei).
