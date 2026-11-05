@@ -54,10 +54,3 @@ Painel gerencial alimentado pelos relatórios do ERP, com importadores em Python
 
 **Infra:** VPS Linux · Docker · Cloudflare · Supabase
 
----
-
-## Estou procurando
-
-Estágio na trilha **AI Builder**: usar IA para construir ferramentas, automações e agentes que resolvem problemas de negócio. Disponível 30 h/semana.
-
-Fale comigo no [LinkedIn](https://linkedin.com/in/samuel-andrei).
