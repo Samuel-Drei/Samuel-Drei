@@ -1,4 +1,4 @@
-# Samuel Andrei · Forward Deployed Engineer
+# Samuel Andrei · Forward Deployed Engineer and AI Builder
 
 **Construo soluções com IA que viram processo real:** assistentes RAG, automações em n8n e painéis de BI, do zero ao deploy e com resultado medido.
 
